@@ -2,8 +2,8 @@
   {
     "id": "zhongzisou",
     "name": "种子搜",
-    "proxy": false,
-    "url": "https://zhongzidi1.com",
+    "proxy": true,
+    "url": "https://www.zhongziso3.com",
     "paths": {
       "time": "/list/{k}/{p}",
       "size": "/list_length/{k}/{p}",
@@ -25,7 +25,7 @@
     "id": "btgg",
     "name": "BTGG",
     "proxy": false,
-    "url": "https://www.btgg.cc",
+    "url": "https://www.btgg.in",
     "paths": {
       "preset": "/search?q={k}&p={p}"
     },
@@ -62,7 +62,7 @@
     "id": "btsow",
     "name": "BTSOW",
     "proxy": false,
-    "url": "https://btsow.cyou",
+    "url": "https://btsow.work",
     "paths": {
       "preset": "/search/{k}/page/{p}"
     },
@@ -81,7 +81,7 @@
     "id": "btdet",
     "name": "BT蚂蚁",
     "proxy": false,
-    "url": "https://btmayi.iproxy.gq",
+    "url": "https://btmayi.xyz",
     "paths": {
       "time": "/search/{k}-first-asc-{p}",
       "size": "/search/{k}-size-desc-{p}",
@@ -103,7 +103,7 @@
     "id": "bt4g",
     "name": "BT4G",
     "proxy": false,
-    "url": "https://bt4g.proxyit.ga",
+    "url": "https://bt4g.unblockit.app",
     "paths": {
       "time": "/search/{k}/{p}",
       "size": "/search/{k}/bysize/{p}",
@@ -124,7 +124,7 @@
     "id": "btdb",
     "name": " BTDB",
     "proxy": false,
-    "url": "https://btdb.proxyit.ga",
+    "url": "https://btdb.unblockit.lat",
     "paths": {
       "time": "?s={k}&sort=time&page={p}",
       "preset": "?s={k}&page={p}",
@@ -143,7 +143,7 @@
     "id": "btdiguo",
     "name": "BT目录",
     "proxy": false,
-    "url": "https://91bt.info",
+    "url": "https://www.btmulu.life",
     "paths": {
       "time": "/search-update/{k}/page-{p}.html",
       "size": "/search-size/{k}/page-{p}.html",
@@ -161,7 +161,7 @@
   {
     "id": "cilibao",
     "name": "磁力宝",
-    "proxy": false,
+    "proxy": true,
     "url": "http://cilibao.me",
     "paths": {
       "time": "/s/{k}_time_{p}.html",
@@ -181,7 +181,7 @@
     "id": "bthub",
     "name": "BThub",
     "proxy": false,
-    "url": "https://bthub.monster",
+    "url": "https://bthub4.xyz",
     "paths": {
       "preset": "/cn/main-search-kw-{k}-{p}.html",
       "size": "/cn/main-search-kw-{k}-length-{p}.html",
@@ -200,6 +200,7 @@
   {
     "id": "btdad",
     "name": " Btdad",
+    "proxy": true,
     "url": "http://www.btdad.co",
     "paths": {
       "preset": "/search-{k}-0-0-{p}.html",
@@ -250,7 +251,7 @@
     "id": "clzz",
     "name": "磁力蜘蛛",
     "proxy": false,
-    "url": "http://www.eclzz.net",
+    "url": "http://www.btmovi.life",
     "paths": {
       "preset": "/s/{k}_rel_{p}.html",
       "time": "/s/{k}_time_{p}.html",
@@ -268,7 +269,7 @@
   {
     "id": "ciligou",
     "name": " 磁力狗",
-    "url": "https://ciligou.app",
+    "url": "https://www.ciligou1024.com",
     "paths": {
       "time": "/search?word={k}&sort=time&p={p}",
       "preset": "/search?word={k}&sort=rele&p={p}",
@@ -290,7 +291,7 @@
   {
     "id": "ciliba",
     "name": " 磁力吧",
-    "url": "https://www.ciliba.icu",
+    "url": "http://clb8.me",
     "paths": {
       "time": "/s/{k}/1/{p}.html",
       "hot": "/s/{k}/3/{p}.html",
@@ -311,7 +312,7 @@
   {
     "id": "btfox",
     "name": " btfox",
-    "url": "http://btfox0.net",
+    "url": "http://btfox0.cc",
     "paths": {
       "time": "/s?wd={k}&sort=time&page={p}",
       "size": "/s?wd={k}&sort=length&page={p}",
